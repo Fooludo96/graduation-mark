@@ -1,3 +1,5 @@
+print ("questo programma è stato creato da ludovico per l'apprendimento. puoi usarlo per imparare ma non redistribuirlo o prenderne i diritti")
+
 print ("ciao, sono qui per calcolare il tuo voto probabile di laurea")
 print ("se vuoi inserire un numero decimale puoi farlo. solo ricordati di usare il PUNTO e non la virgola")
 
@@ -11,7 +13,7 @@ if (b < 66):
     print ("input errato. terminare il programma e ricominciare")
     exit  ()
 
-c = float(input ("inserisi il livello di cattiveria del tuo prof da 1 a 10: "))
+c = float(input ("inserisi il livello di severità del tuo prof da 1 a 10: "))
 
 if (c > x):
     print ("input errato. terminare il programma e ricominciare")
@@ -58,6 +60,7 @@ print (k)
 #exit ()
 
 
+# this was an old code. i don't want to delete it cause i can use it in a future project
 
 # import random
 # while 1 ==1
